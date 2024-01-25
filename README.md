@@ -9,7 +9,6 @@
 
 
 <br>
-<br>
 
 
 
@@ -24,13 +23,9 @@ Here are some ideas to get you started:
 
 Repos:
 
-<br>
 
 ![](https://count.getloli.com/get/@Lvan826199.github.readme?theme=rule34)
 
-
-<br>
-<br>
 
 ---
 
