@@ -24,9 +24,6 @@
 
 </div>
 
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvan826199&layout=compact" />
-
-<br clear="both">
 
 ---
 
