@@ -2,23 +2,19 @@
 
 
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lvan826199&count_private=true&show_icons=true&theme=radicalhide_title=true&show_icons=true" />
+<!-- 
+   Metrics card deprecated due to API limits.
+   Swapping for dynamic tech identity.
 -->
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=580&lines=%F0%9F%A4%96+Senior+SDET+%7C+AI+Agent+Craftsman;%F0%9F%90%8D+Python+%7C+Django+%7C+FastAPI+%7C+Vue;%F0%9F%A7%AA+ClaudeCode+%7C+Skills+%7C+MCP+%7C+Agent;%F0%9F%8E%AD+Playwright+%7C+Selenium+%7C+Appium+%7C+Airtest;%E2%9A%A1+UI-TARS+%7C+Midscene.js+%7C+tidevice;%F0%9F%93%88+Pytest+%7C+Test+Platform+Architect)](https://git.io/typing-svg)
+
+</div>
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvan826199&layout=compact" />
 
-
-<br>
-
-
-
-<!--
-**Lvan826199/Lvan826199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+<br clear="both">
 
 ---
 
